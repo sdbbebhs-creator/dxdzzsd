@@ -1,0 +1,10 @@
+{
+  "name": "VocabBank - Ôn Tập Thông Minh",
+  "description": "Ứng dụng ôn tập từ vựng và ngữ pháp tiếng Anh theo thuật toán FSRS v4, hỗ trợ luyện tập 5 ngữ cảnh thực tế, đánh giá FSRS tự do và đấu trường 3D.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
